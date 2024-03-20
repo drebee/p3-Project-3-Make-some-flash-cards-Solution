@@ -1,0 +1,1 @@
+i'll show each card 5 times, and keep showing each card until the user gets over 90% correct answers for a particular card
